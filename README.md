@@ -1,2 +1,38 @@
-# Text-Based-Emotion-Detection-Cybercrime-Investigation
-This project combines Natural Language Processing, TF-IDF feature extraction, and Soft Voting Ensemble Learning (Logistic Regression, Random Forest, and SVM) to detect emotions and threats from digital text communication for cybercrime investigation.
+# Text-Based Emotion Detection for Cybercrime Investigation
+
+## Overview
+This project detects emotions and threats from textual communication using NLP and Machine Learning techniques.
+
+## Features
+- Emotion Detection
+- Threat Detection
+- TF-IDF Feature Extraction
+- Soft Voting Ensemble Learning
+- Streamlit Web Interface
+
+## Technologies Used
+- Python
+- NLP
+- Scikit-learn
+- Streamlit
+- Pandas
+
+## Models
+- Logistic Regression
+- Random Forest
+- Support Vector Machine (SVM)
+
+## Results
+- Accuracy: 85%
+- Classes:
+  - Anger
+  - Fear
+  - Joy
+  - Sadness
+  - Threat
+  - Neutral
+
+## Future Work
+- BERT Integration
+- Real-time Monitoring
+- Multilingual Support
